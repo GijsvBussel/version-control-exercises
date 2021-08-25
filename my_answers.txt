@@ -1,1 +1,4 @@
 my_answers.txt exercise 2
+
+# add a few lines
+# exercise 3 of tutorial practicing with git push origin main
